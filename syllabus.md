@@ -1,3 +1,6 @@
+![Computational Seismology logo](images/compsci.png)
+
+
 # GLY 6739.017S26 — Computational Seismology  
 **Credit Hours:** 3  
 **Semester:** Spring 2026  
