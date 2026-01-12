@@ -1,4 +1,4 @@
-![Computational Seismology logo](images/compsci.png)
+![Computational Seismology logo](compsci.png)
 
 
 # GLY 6739.017S26 — Computational Seismology  
